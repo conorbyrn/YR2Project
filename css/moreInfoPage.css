@@ -1,0 +1,9 @@
+#leftCol{
+	background-color: #00ace6;
+	height: 100%;
+	border: 0.1em solid #ffffff;
+}
+.moreInfoImg{
+	float: right;
+	margin: 0;
+}
